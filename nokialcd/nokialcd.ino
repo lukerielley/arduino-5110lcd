@@ -26,7 +26,7 @@ void setup() {
   myGLCD.setFont(SmallFont);
 
   myGLCD.clrScr();
-  myGLCD.print("HELLO WORLD", CENTER, 10);
+  myGLCD.print("VSCODE Publish", CENTER, 10);
   myGLCD.update();
 
 }
